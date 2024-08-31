@@ -1,5 +1,4 @@
-
-# Hello there, I am Sudhanshu Neravati
+# Hello there 😉 , I am Sudhanshu Neravati
 *Machine Learning Engineer | Web Developer*
 
 ---
@@ -14,7 +13,7 @@ You can easily schedule a virtual meeting by clicking the link above. I'm excite
 
 ### Run this 👇 command to discover more
 
-```bash
+```
 npx sudhanshu
 ```
 
@@ -37,11 +36,13 @@ const sudhanshu: Good = {
         webDevelopment: {
             frontEnd: {
                 core: ["HTML", "CSS", "JavaScript"],
-                libraries: ["React"],
+                libraries: ["React","Vue.js"],
+                cssFrameworks: ["Tailwindcss"],
+                uiLibraries: ["Shadcn-ui", "Material-ui"]
             },
             backEnd: {
                 frameworks: ["Node.js"],
-                packages: ["Express"],
+                packages: ["Express", "Mongoose", "Nodemailer", "JsonWebToken", "Bcrypt"],
             },
         },
         mobileApp: {
@@ -58,15 +59,15 @@ const sudhanshu: Good = {
             cloudPlatforms: ["Amazon Web Services", "Google Cloud Platform", "Microsoft Azure"],
             containerization: ["Docker", "Kubernetes"],
         },
-        databases: ["Mongo", "MySQL", "PostgreSQL"],
+        databases: ["Mongo", "MySQL", "PostgreSQL", "Redis"],
         other: ["Firebase", "Supabase", "Socket.IO", "Selenium"]
     },
     architecture: ["Single page", "Serverless", "Monolithic", "Microservices"],
-    currentFocus: "No Focus - It Means, Doing Everything",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Juggling Everything",
+    funFact: "The first computer bug was an actual bug! In 1947, a moth got stuck in a relay of the Harvard Mark II computer, and ever since, the term 'bug' has been used to describe software glitches."
 };
 ``` 
-\
+
 I believe in the transformative power of technology to create meaningful solutions. Whether developing sophisticated machine learning models or crafting seamless user experiences, my work is driven by a commitment to excellence and continuous improvement. I'm always eager to connect with others who share a passion for innovation and problem-solving.
 
 ---
