@@ -41,7 +41,7 @@ const sudhanshu: Good = {
                 uiLibraries: ["Shadcn-ui", "Material-ui"]
             },
             backEnd: {
-                frameworks: ["Node.js"],
+                runtime: ["Node.js", "Bun"],
                 packages: ["Express", "Mongoose", "Nodemailer", "JsonWebToken", "Bcrypt"],
             },
         },
