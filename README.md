@@ -11,7 +11,7 @@ You can easily schedule a virtual meeting by clicking the link above. I'm excite
 
 **Or**
 
-### Run this 👇 command to discover more
+### Hit this 👇 command to discover more
 
 ```
 npx sudhanshu
